@@ -175,7 +175,7 @@ header {
     left: 50%;
     transform: translate(-50%, -45%);
     animation: appear 2s linear forwards;
-    animation-delay: 1s;
+    animation-delay: 2s;
     opacity: 0;
     backface-visibility: hidden;
     overflow: hidden;
